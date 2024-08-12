@@ -1,3 +1,10 @@
+RFM Model & CLTV
+
+
+
+
+
+
 RFM modeling increases a business’ ability to prevent churn by using fundamental marketing principles of segmentation, targeting, and positioning, which help understand the following:
 
 Customer segmentation allows you to divide potential customer groups allowing businesses to talk to them separately. It helps answer the questions:
